@@ -14,6 +14,7 @@ tools, our goal is to provide the raw information you need.
 
 Each game mode is maintained in its own dedicated repository:
 
+* **atlas-all:** All "osu!" maps data.
 * **atlas-circles:** Full dataset for the classic circle-clicking mode.
 * **atlas-taiko:** Comprehensive data for Taiko maps, including difficulty metrics and metadata.
 * **atlas-catch:** Detailed information on all Catch the Beat maps.
