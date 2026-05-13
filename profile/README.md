@@ -1,4 +1,3 @@
-<div align="center"> 
 Welcome to **osu!data**, a community-driven initiative dedicated to providing structured, comprehensive, and up-to-date datasets for the rhythm game *osu!*.
 
 ## 📊 About the Project
@@ -43,5 +42,4 @@ to their respective owners.
 
 Since the *osu!* library is constantly expanding, community help is always welcome. If you find 
 discrepancies or wish to contribute to the automation scripts used to gather this data, feel free 
-to open an issue or a pull request in the relevant repository. 
-</div>
+to open an issue or a pull request in the relevant repository.
